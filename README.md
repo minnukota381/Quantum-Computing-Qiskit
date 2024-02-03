@@ -1,6 +1,4 @@
-Certainly! A good README file helps users understand the purpose of the repository and provides information on how to use the files within it. Below is a template you can use for your GitHub repository:
 
-```markdown
 # Quantum Computing with Qiskit Demos
 
 This repository contains a collection of Jupyter Notebooks demonstrating various quantum computing concepts using Qiskit, a popular quantum computing framework.
