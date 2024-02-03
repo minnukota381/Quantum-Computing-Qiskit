@@ -24,7 +24,6 @@ Quantum computing is an exciting field, and this repository aims to provide hand
 4. [BELL STATE Phi Minus 10](BELL%20STATE%20Phi%20Minus%2010.ipynb)
 5. [Bell State](Bell%20State.ipynb)
 6. [Bloch Sphere Complete Visualization](Bloch_Sphere_Complete_Visualization.ipynb)
-7. ...
 
 ## Installation
 
