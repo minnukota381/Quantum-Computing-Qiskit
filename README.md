@@ -38,7 +38,7 @@ pip install qiskit
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/minnukota381/Quantum-Computing-Qiskit.git
 cd Quantum-Computing-Qiskit
 ```
 
