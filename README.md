@@ -38,8 +38,8 @@ pip install qiskit
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/quantum-qiskit-demos.git
-cd quantum-qiskit-demos
+git clone 
+cd Quantum-Computing-Qiskit
 ```
 
 2. Open the desired notebook using Jupyter Notebooks:
