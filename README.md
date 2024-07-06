@@ -16,11 +16,7 @@ This repository contains a collection of Jupyter Notebooks demonstrating various
 
 Quantum computing is an exciting field, and this repository aims to provide hands-on examples and demonstrations using Qiskit. Whether you are a beginner or an experienced quantum enthusiast, these notebooks cover a range of topics from basic quantum gates to more advanced algorithms like Simon's Algorithm and the Deutsch-Jozsa Algorithm.
 
-# Quantum Computing with Qiskit
-
-This repository contains a collection of Jupyter notebooks demonstrating various concepts and algorithms in quantum computing using Qiskit.
-
-## Table of Contents
+## Chapters
 
 1. [Introduction to Quantum Computing and Qiskit](#chapter-1-introduction-to-quantum-computing-and-qiskit)
 2. [Basic Quantum Gates and Operations](#chapter-2-basic-quantum-gates-and-operations)
