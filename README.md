@@ -32,6 +32,7 @@ Quantum computing is an exciting field, and this repository aims to provide hand
 
 1. **Qiskit Installation.ipynb** - Guide to installing Qiskit.
 2. **print_qiskit_version.ipynb** - Checking the installed version of Qiskit.
+3. **I_O_C_T_PRODUCT.ipynb** - Inner, outer, conjugate, and tensor products.
 
 ## Chapter 2: Basic Quantum Gates and Operations
 
@@ -88,9 +89,9 @@ Quantum computing is an exciting field, and this repository aims to provide hand
 
 ## Chapter 9: Other Quantum Concepts
 
-1. **I_O_C_T_PRODUCT.ipynb** - Inner, outer, conjugate, and tensor products.
-2. **String Prediction.ipynb** - String prediction using quantum computing.
-3. **test.ipynb** - Miscellaneous tests and demonstrations.
+1. **String Prediction.ipynb** - String prediction using quantum computing.
+2. **test.ipynb** - Miscellaneous tests and demonstrations.
+
 
 ## Installation
 
