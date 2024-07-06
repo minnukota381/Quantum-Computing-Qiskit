@@ -117,7 +117,3 @@ jupyter notebook
 ```
 
 3. Explore and run the notebooks to understand quantum computing concepts.
-
-## Contributing
-
-If you find any issues, have suggestions, or want to contribute new notebooks, feel free to open an issue or create a pull request. Your contributions are welcome!
