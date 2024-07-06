@@ -1,5 +1,5 @@
 
-# Quantum Computing with Qiskit Demos
+# Quantum Computing with Qiskit
 
 This repository contains a collection of Jupyter Notebooks demonstrating various quantum computing concepts using Qiskit, a popular quantum computing framework.
 
